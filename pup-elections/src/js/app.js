@@ -1,4 +1,4 @@
-const contract_address = "0x32d7c7AB1a5AdC0C1c3222DE552D64ECAe2d94EF";
+const contract_address = "0x48A6994E9e3977a8d116DB8B0d76a3FD4169D418";
 var account;
 var contract;
 App = {
