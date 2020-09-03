@@ -15,7 +15,7 @@ Interact with the contract through a web pageto allow for voting and display imp
 
 
 
-![OBJECTIVES](images\slide_show_objectives_with_graphics.PNG)
+![OBJECTIVES](images/slide_show_objectives_with_graphics.PNG)
 
 
 ## OVERVIEW
@@ -40,7 +40,7 @@ Some of the current challenges of paper-based/ traditional voting:
 
 ## ARCHITECTURE 
 
-![dapps](images\correct_DAPPS.PNG)
+![dapps](images/correct_DAPPS.PNG)
 
 
 ![contract](images/corrected_contract.PNG)
