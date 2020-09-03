@@ -4,8 +4,18 @@
 [Puppy Presidential Elections](https://pup-elections.netlify.app/)    
 ![websitehomepage](images/puppyelectionshomepagescreenshot.PNG)
 ### OBJECTIVE
-Create and deploy fully decentralized end to end  DAPP
 
+Our objective was to develop end-to-end  decentralized application.
+Set up an Ethereum network private blockchainusing AWS.
+Compiling and deploying a solidity smartcontract in the private environment.
+Use IFPS storage to store candidates’ profiles information.
+Interacting with the contract on the blockchain using Metamask.
+Interact with the contract through a web pageto allow for voting and display important vote information.
+
+
+
+
+![OBJECTIVES](images\slide_show_objectives_with_graphics.PNG)
 
 
 ## OVERVIEW
@@ -30,8 +40,13 @@ Some of the current challenges of paper-based/ traditional voting:
 
 
 ## ARCHITECTURE 
-ARCHITECTURE
-![dapps](images\correct DAPPS.PNG)
+
+![dapps](images\correct_DAPPS.PNG)
+
+
+![contract](images/corrected_contract.PNG)
+
+
 
 #### AWS
 
@@ -71,13 +86,12 @@ Basic Principles of Voting
 One of the major pros of this DAPP was the easy use and effieincy. Makes the voting process more accessible and quicker than the current way. 
 One con is security issues. 
 
-[Puppy Presidential Elections](url) and ![Image](src)[Puppy Presidential Elections](url) and ![Image](src)
-```
 
 
 
 
-![contract](corrected contract.PNG)
+
+
 
 
 
