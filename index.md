@@ -27,13 +27,12 @@ A dapp can expand voting access
 3. Non-modification of the votes cast.
 Blockchain data is immutable
 4. Lack of intimidation during elections.
-
-            * Since transactions are not truly secret in the Ethereum blockchain more robust alternatives like Quorum are needed.
+        *Since transactions are not truly secret in the Ethereum blockchain more robust alternatives like Quorum are needed.
 
 Some of the current challenges of paper-based/ traditional voting:
----Human error handling paper ballots.
----Ease of manipulation.
----COVID-19 has limited in person voting.
+1. Human error handling paper ballots.
+2. Ease of manipulation.
+3. COVID-19 has limited in person voting.
 
 
 
@@ -56,12 +55,12 @@ View the AWS work here https://github.com/shubhra13/CryptoKnights/tree/master/aw
 ## DETAILS
 
 Basic Principles of Voting
--Only eligible voters have the right to vote.
--Every vote cast is only counted once.
--Every voter is free to make his/her decisions without intimidation or coercion.
--The secrecy of vote is maintained throughout the voting process.
--Every eligible voter has access to vote without prejudice to educational level, location and disability.
--The entire voting process is very transparent.
+    -Only eligible voters have the right to vote.
+    -Every vote cast is only counted once.
+    -Every voter is free to make his/her decisions without intimidation or coercion.
+    -The secrecy of vote is maintained throughout the voting process.
+    -Every eligible voter has access to vote without prejudice to educational level, location and disability.
+    -The entire voting process is very transparent.
 
 
 
