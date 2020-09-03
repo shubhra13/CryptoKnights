@@ -1,53 +1,83 @@
 ## PUPPY PRESIDENTIAL ELECTIONS 
 
-You can use the [editor on GitHub](https://github.com/caseyqburke/project3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-[Puppy Presidential Elections](https://pup-elections.herokuapp.com/)    
+[Puppy Presidential Elections](https://pup-elections.netlify.app/)    
 ![websitehomepage](images/puppyelectionshomepagescreenshot.PNG)
-### Markdown
+### OBJECTIVE
+Create and deploy fully decentralized end to end  DAPP
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 ## OVERVIEW
+Inspired by the current presidential elections our project seeks to provide an alternative to the traditional methods of voting in a presidential election. 
+We wanted to highlight how blockchain technology could ensure strict compliance with the principles of democratic elections.
+1. Freedom to vote.
+A dapp can expand voting access
+2. Secrecy of vote.*
+3. Non-modification of the votes cast.
+Blockchain data is immutable
+4. Lack of intimidation during elections.
+
+            * Since transactions are not truly secret in the Ethereum blockchain more robust alternatives like Quorum are needed.
+
+Some of the current challenges of paper-based/ traditional voting:
+---Human error handling paper ballots.
+---Ease of manipulation.
+---COVID-19 has limited in person voting.
+
 
 
 
 
 ## ARCHITECTURE 
 ARCHITECTURE
-![dapps](images/dapps.png)
+![dapps](images\correct DAPPS.PNG)
+
+#### AWS
+
+View the AWS work here https://github.com/shubhra13/CryptoKnights/tree/master/aws
 
 
 ## DETAILS
 
-- Bulleted
-- List
+Basic Principles of Voting
+-Only eligible voters have the right to vote.
+-Every vote cast is only counted once.
+-Every voter is free to make his/her decisions without intimidation or coercion.
+-The secrecy of vote is maintained throughout the voting process.
+-Every eligible voter has access to vote without prejudice to educational level, location and disability.
+-The entire voting process is very transparent.
 
-## CONTRACT SPECS
-1. Numbered
-2. List
+
+
+## TECH AND TOOLS
+- For this DAPP we applied a variety of technologies and tools 
+1. AWS ec2 instances
+2. AWS elastic tip
+3. Geth
+4. Solidity
+5. Remix(IDE)
+6. Metamask
+7. Ganache
+8. Truffle Suite(for deployment)
+9. Netlify
+10. Javascript
+11. HTML
+12. CSS
+
 
 
 ## PROS/CONS
-
-**Bold** and _Italic_ and `Code` text
+One of the major pros of this DAPP was the easy use and effieincy. Makes the voting process more accessible and quicker than the current way. 
+One con is security issues. 
 
 [Puppy Presidential Elections](url) and ![Image](src)[Puppy Presidential Elections](url) and ![Image](src)
 ```
 
-![dapps](images/dapps.png)
 
 
 
+![contract](corrected contract.PNG)
 
 
 
-![contract](images/contract.png)
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caseyqburke/project3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
