@@ -1,18 +1,5 @@
-# Cryptoknights
+OBJECTIVE
+Our objective was to develop end-to-end decentralized application. Set up an Ethereum network private blockchainusing AWS. Compiling and deploying a solidity smartcontract in the private environment. Use IFPS storage to store candidates’ profiles information. Interacting with the contract on the blockchain using Metamask. Interact with the contract through a web pageto allow for voting and display important vote information.
 
-## Team
-
-Shubhra Bhatnagar, Kevin Minchala, Casey Burke, Rachel Solomon
-
-## Overview 
-
-* We intend to create a blockchain voting platfom whereby our classmates are able to enter our testnet and participate in a live vote.
-* We will use our knowldge of soldity, metamask, aws, javascript and githubpages and expand on these concepts to create an interactive interface which makes voting user friendly.
-
-## The Advantage of Blockchain Voting
-
-* Security 
-* Anonymity 
-* Tracability 
-* Immutability 
-* Efficiency 
+Below is the doc hosted in github.
+https://shubhra13.github.io/CryptoKnights/
