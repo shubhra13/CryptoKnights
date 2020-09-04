@@ -6,5 +6,5 @@ Our objective was to develop end-to-end decentralized application.
 - Interacting with the contract on the blockchain using Metamask. 
 - Interact with the contract through a web pageto allow for voting and display important vote information.
 
-Below is the link detail:
+Below is the link to details hosted in github:
 https://shubhra13.github.io/CryptoKnights/
