@@ -1,9 +1,10 @@
 ## PUPPY PRESIDENTIAL ELECTIONS 
 
-### A DApp to vote for puppy election using ourown ethereum testnet
+### A DApp to vote for puppy election using our own ethereum testnet
 
-More indexed version of this readme is in the below link:
+More indexed document of this readme is in the below link:
 https://shubhra13.github.io/CryptoKnights/
+
 
 [Puppy Presidential Elections](https://pup-elections.netlify.app/)    
 ![websitehomepage](images/puppyelectionshomepagescreenshot.PNG)
